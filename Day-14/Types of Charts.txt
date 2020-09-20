@@ -1,0 +1,62 @@
+Q-1) Questions and Answers		
+-------------------------
+1) Which one of the following charts generated from a football statistics spreadsheet could compare the performance of the team from year to year?												
+A. Bar--------->Answer										
+B. Histogram												
+C. Pie												
+D. Scattergram
+												
+2) Which chart will show the direction of change in numbers over a period of time by connecting data points?												
+A. Bar												
+B. Line-------->Answer												
+C. Pie												
+D. Scattergram
+												
+3) Which chart can track and compare measurements, such as temperature, and show trends and comparisons?												
+A. Bar												
+B. Line-------->Answer												
+C. Pie												
+D. Scattergram												
+
+4) Which type of chart displays bars side by side?												
+A. Bar--------->Answer												
+B. Line												
+C. Pie												
+D. Scattergram
+
+5) Which chart generated from spreadsheet data would campare values that represent parts of a whole?									
+A. Bar									
+B. Line									
+C. Pie--------->Answer									
+D. Scattergram
+									
+6) The three types of charts generally used to illustrated spreadsheets are:									
+A. Bar, line, and scattergram.									
+B. Line, pie and area.									
+C. Pie, scattergram, stacked bar.									
+D. Bar, line, and pie.---------------->Answer									
+
+7) The best type of chart to compare individual values to each other is:									
+A. Bar									
+B. Line									
+C. Pie									
+D. Scattergram------>Answer									
+
+8) Bar charts are MOST effectively used to:									
+A. Present scientific data.									
+B. Compare groups of data.									
+C. Show parts of a whole.									
+D. Show activity of an item over a period of time.--------->Answer									
+
+9) The best type of chart to show the relationship of each part to the whole is:									
+A. Bar									
+B. Line									
+C. Pie------------->Answer									
+D. Scattergram									
+
+10) The chart that uses connecting dots to show changes over a period of time is called:									
+A. Bar									
+B. Line-------->Answer									
+C. Pie									
+D. Scattergram									
+											

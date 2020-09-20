@@ -1,0 +1,34 @@
+1) Classify each of the following as N, nominal; O, ordinal; or I/R, interval/ratio data:    
+                                                                             
+                                                                             Answer
+                                                                            --------
+    a.  zip code of your local address                    |                  Nominal       
+---------------------------------------------------------------------------------------------------------                             
+    b.  letter grade you will receive in this class       |                  Ordinal
+---------------------------------------------------------------------------------------------------------
+    c.  country you were born in                          |                  Nominal
+---------------------------------------------------------------------------------------------------------
+    d.  amount of money you have with you                 |                  Ratio
+---------------------------------------------------------------------------------------------------------
+    e.  mileage (miles per gallon) your car gets          |                  Ratio
+---------------------------------------------------------------------------------------------------------
+    f.  brand of chocolate you prefer                     |                  Nominal
+---------------------------------------------------------------------------------------------------------
+    g.  year of your birth (A.D.)                         |                  Nominal
+---------------------------------------------------------------------------------------------------------
+    h.  weight of your pet                                |                  Ratio
+---------------------------------------------------------------------------------------------------------
+    i.  degrees earned by your teachers                   |                  Ordinal
+---------------------------------------------------------------------------------------------------------
+    j.  egg sizes(Small,Medium,Large,Extra Large,Jumbo)   |                  Ordinal
+---------------------------------------------------------------------------------------------------------
+
+
+2) Which of the following is an example of a continuous variable? 
+
+                                                                       Answer
+                                                                       ------
+A: Family income                                        |
+B: Number of students in a statistics class             |           A.Family Income
+C: Zip codes of shoppers                                |              
+D: Rankings of baseball teams in a league               |
